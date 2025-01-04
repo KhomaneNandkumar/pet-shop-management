@@ -1,0 +1,41 @@
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\NK PET SHOP.dll.config
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\NK PET SHOP.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\NK PET SHOP.pdb
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\csc.exe
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\csc.exe.config
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\csc.rsp
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\csi.exe
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\csi.exe.config
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\csi.rsp
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\vbc.exe
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\vbc.exe.config
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\vbc.rsp
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\VBCSCompiler.exe
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\obj\Debug\NK PET SHOP.csproj.AssemblyReference.cache
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\obj\Debug\NK PET SHOP.csproj.CoreCompileInputs.cache
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\obj\Debug\NK PET S.4446FF56.Up2Date
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\obj\Debug\NK PET SHOP.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\obj\Debug\NK PET SHOP.pdb
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\System.Buffers.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\System.Memory.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\rajud\source\repos\NK PET SHOP\NK PET SHOP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
